@@ -1,0 +1,1 @@
+Dedicated to developing functionality that lets Magento interface with Quick Books via the Quick Books Web Connector allowing synchronization of products, inventory and pricing, price rules, customers, order histories, etc. The end goal is an automated solution allowing tight integration between the two systems and their associated data.
